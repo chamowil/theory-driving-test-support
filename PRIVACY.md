@@ -1,12 +1,12 @@
-# Privacy Policy for Theory Driving Test
+# Privacy Policy for UK Theory Driving Test
 
-**Effective date:** 15 August 2026
+**Effective date:** 23 November 2026
 
-Theory Driving Test ("the app", "we", "us") is developed by Wuilmer Ponte. This policy explains what happens to your data when you use the app.
+UK Theory Driving Test ("the app", "we", "us") is developed by Wuilmer Ponte. This policy explains what happens to your data when you use the app.
 
 ## Summary
 
-Theory Driving Test does not collect, transmit, or sell any personal data. All of your data — account details, progress, and settings — stays on your device.
+UK Theory Driving Test does not collect, transmit, or sell any personal data. All of your data — account details, progress, and settings — stays on your device.
 
 ## Data we do not collect
 
@@ -15,8 +15,8 @@ We do not use analytics, advertising, or crash-reporting services, and the app m
 ## Data stored on your device
 
 - **Account / Sign-In**: If you sign in with Apple or create a local account, your credentials and session are stored securely on-device in the iOS Keychain. This information is never sent to us or to any third party.
-- **App settings**: Preferences such as notification toggles and your exam date are stored locally using `UserDefaults`.
-- **Study data**: Your questions answered, mock exam results, hazard perception results, bookmarks, and achievements are stored locally on your device using Apple's SwiftData framework.
+- **App settings**: Preferences such as your language preference, notification toggles and exam date are stored locally using `UserDefaults`.
+- **Study data**: Your questions answered, mock exam results, hazard-awareness results, bookmarks, and achievements are stored locally on your device using Apple's SwiftData framework.
 
 None of the above ever leaves your device, and it is deleted automatically if you delete the app.
 
@@ -30,13 +30,14 @@ The app does not integrate any third-party analytics, advertising, or tracking S
 
 ## Children's privacy
 
-Theory Driving Test does not knowingly collect personal data from anyone, including children. Since no personal data is collected, this applies equally to all users regardless of age.
+UK Theory Driving Test does not knowingly collect personal data from anyone, including children. Since no personal data is collected, this applies equally to all users regardless of age.
 
 ## Your choices
 
 Because all data is stored locally on your device:
-- You can delete all app data at any time by deleting the app.
-- If you use Sign in with Apple, you can review or revoke the app's access at any time in your Apple ID account settings.
+- You can delete all app data at any time by deleting the app, or by using Settings > Account > Delete Account in the app.
+- If you use Sign in with Apple, you can review or revoke the app's access at any time in your Apple Account settings.
+- Deleting your account in the app does not cancel an Apple subscription. Manage subscriptions in your Apple Account settings.
 
 ## Changes to this policy
 
@@ -44,4 +45,4 @@ If this policy changes — for example, if a future version adds analytics or a 
 
 ## Contact us
 
-Questions about this policy or your data? Email us at [chamowil@gmail.com](mailto:chamowil@gmail.com).
+Questions about this policy or your data? Email us at [chamowil@outlook.com](mailto:chamowil@outlook.com).
